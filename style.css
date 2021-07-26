@@ -35,6 +35,7 @@ h2 {
 /* Cursor */
 .txt-type > .txt {
   border-right: 0.13rem solid #777;
+  color: crimson;
 }
 
 @media screen and (min-width: 1200px) {
